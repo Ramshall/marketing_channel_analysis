@@ -30,7 +30,7 @@ This dashboard focuses on customer segmentation based on RFM analysis and the nu
 ## Repo Content
 This repository contains the main components of the project:
 * Power BI Report: the Power BI `.pbix` file
-* Exported Report: The files which are exported version of the Power BI Dashboars
+* Exported Report: The file `.pdf` which is exported version of the Power BI Dashboard.
 
 ---
 
